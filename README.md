@@ -36,15 +36,15 @@ StudentManagementSystem/
 git clone https://github.com/your-username/StudentManagementSystem.git
 ```
 
-##2. Navigate to the project directory:
+2. Navigate to the project directory:
 ```bash
 cd StudentManagementSystem
 ```
-##3. Compile the C program:
+3. Compile the C program:
 ```bash
 gcc main.c student.c -o student_management
 ```
-##4. Run the program:
+4. Run the program:
 ```bash
 ./student_management
 ```
